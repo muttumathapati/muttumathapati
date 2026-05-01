@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi !, I am Mrutyunjayya<br>🌱 I’m currently learning Python (Data Science) | 🤖 ML | 🔐 Cybersecurity (Networking & Linux)<br>💬 Ask me about 🐍 Python Basics | 📊 Data Analysis | 💻 GitHub<br>⚡ Fun fact: I enjoy solving real-world problems with data 🚀
 
-
+[![](https://komarev.com/ghpvc/?username=muttumathapati&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/00_muttu_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrutyunjayya-mathapati-6b570129a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TechInProgram) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muttumathapati360@gmail.com) 
 
@@ -13,6 +13,6 @@ Hi !, I am Mrutyunjayya<br>🌱 I’m currently learning Python (Data Science) |
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=muttumathapati&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=muttumathapati&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
